@@ -1,0 +1,15 @@
+.flex-container {
+    display: flex;
+    align-items: stretch;
+    background-color: #ffffff;
+  }
+  
+  .flex-container > div {
+    color: rgb(3, 0, 0);
+    margin: 10px;
+    text-align: center;
+  }
+
+  #inputSearch{
+    width: -webkit-fill-available;
+  }
