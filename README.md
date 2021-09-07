@@ -14,3 +14,6 @@ Functional based component with redux thunk
 -------------------------------------------------------------------------------------
 
 In case you have card number or api then you can run this in your laptop
+
+
+.env file has been created so that you can keep your google api key hidden from world  
