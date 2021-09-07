@@ -1,4 +1,4 @@
-/* .flex-container {
+.flex-container {
     display: flex;
     align-items: stretch;
     background-color: #ffffff;
@@ -12,4 +12,12 @@
 
   #inputSearch{
     width: -webkit-fill-available;
-  } */
+  }
+
+  div.autocomplete-dropdown-container ol {
+    color: red;
+  }
+
+  #recentSearched{
+    margin-top: 75% ;
+  }
